@@ -1,0 +1,40 @@
+{
+  "movies": [
+    {
+      "title": "Довод",
+      "imageURL": "public/watched_movies/довод.svg"
+    },
+    {
+      "title": "Реинкарнация",
+      "imageURL": "public/watched_movies/реинкарнация.svg"
+    },
+    {
+      "title": "Сияние",
+      "imageURL": "public/watched_movies/сияние.svg"
+    },
+    {
+      "title": "Никто",
+      "imageURL": "public/watched_movies/никто.svg"
+    },
+    {
+      "title": "Джентльмены",
+      "imageURL": "public/watched_movies/джентельмены.svg"
+    },
+    {
+      "title": "Однажды в Голливуде",
+      "imageURL": "public/watched_movies/однажды....svg"
+    },
+    {
+      "title": "Джокер",
+      "imageURL": "public/watched_movies/Джокер.svg"
+    },
+    {
+      "title": "Три биллборда на границе Эббинга, Миссури",
+      "imageURL": "public/watched_movies/Три билборда....svg"
+    },
+    {
+      "title": "Паразиты",
+      "imageURL": "public/watched_movies/Паразиты.svg"
+    }
+  ]
+}

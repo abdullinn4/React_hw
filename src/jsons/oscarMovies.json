@@ -1,0 +1,21 @@
+{
+  "movies": [
+    {
+      "title": "Земля кочевника",
+      "imageURL": "public/movies/Земля кочевника.svg"
+    },
+    {
+      "title": "Отец",
+      "imageURL": "public/movies/Отец.svg"
+    },
+    {
+      "title": "Еще по одной",
+      "imageURL": "public/movies/Еще по одной.svg"
+    },
+    {
+      "title": "Душа",
+      "imageURL": "public/movies/Душа.svg"
+    }
+
+  ]
+}

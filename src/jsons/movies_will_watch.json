@@ -1,0 +1,40 @@
+{
+  "movies": [
+    {
+    "title": "Минари",
+    "imageURL": "public/movies/Минари.svg"
+    },
+    {
+      "title": "Солнцестояние",
+      "imageURL": "public/movies/Солнцестояние.svg"
+    },
+    {
+      "title": "Манк",
+      "imageURL": "public/movies/Манк.svg"
+    },
+    {
+      "title": "Девушка, подающая надежды",
+      "imageURL": "public/movies/ДевушкаПодающаяНадежды.svg"
+    },
+    {
+      "title": "Земля кочевника",
+      "imageURL": "public/movies/Земля кочевника.svg"
+    },
+    {
+      "title": "Отец",
+      "imageURL": "public/movies/Отец.svg"
+    },
+    {
+      "title": "Еще по одной",
+      "imageURL": "public/movies/Еще по одной.svg"
+    },
+    {
+      "title": "Душа",
+      "imageURL": "public/movies/Душа.svg"
+    },
+    {
+      "title": "Годзилла",
+      "imageURL": "public/movies/Годзилла.svg"
+    }
+  ]
+}
